@@ -1,7 +1,6 @@
-# PDF-Chatbot
 # PDF Chatbot using LangChain and OpenAI API
 
-**Duration**: Nov 2023 – Dec 2023 
+**Duration**: Sep 2024 – Nov 2024 
 **Tech Stack**: Python, LangChain, OpenAI API, Google Colab, NLP, Streamlit *(optional)*
 
 ---
